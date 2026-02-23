@@ -1,67 +1,79 @@
 <div align="center">
 
-# Hi, I'm Xu Zhenghao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- 1. 极简页眉：纯净的文字，没有花哨的动画 -->
+<!-- 使用 SVG 渲染名字，确保字体统一且高清 -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e6edf3&text=Xu%20Zhenghao&height=80&fontSize=60&fontAlign=50" alt="Xu Zhenghao" />
 
-### 👨‍💻 CS Undergraduate | Full-Stack Developer | Game Creator
+<!-- 副标题：使用代码字体，强调技术属性 -->
+<pre>
+<span style="color: #7d8590">const</span> <span style="color: #2f81f7">CURRENT_ROLE</span> = <span style="color: #a5d6ff">"CS Undergraduate"</span>;
+<span style="color: #7d8590">const</span> <span style="color: #2f81f7">FOCUS</span> = [<span style="color: #a5d6ff">"Full-Stack"</span>, <span style="color: #a5d6ff">"Game Dev"</span>, <span style="color: #a5d6ff">"806 Studio"</span>];
+</pre>
+
 <br/>
 
-<!-- 核心导航按钮：使用扁平化、商务蓝风格 -->
-<a href="http://www.bjchz.net.cn">
-  <img src="https://img.shields.io/badge/Portfolio-www.bjchz.net.cn-0056D2?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
+<!-- 2. 核心项目入口：黑底白字，高端商务风 -->
+<a href="http://www.bjchz.net.cn" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-BJCHZ.NET.CN-white?style=for-the-badge&logo=vercel&logoColor=black" height="35" />
 </a>
+&nbsp;&nbsp;
 <a href="mailto:xuzh060618@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-2b3137?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Organization-806_Studio-2b3137?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/CONTACT-EMAIL_ME-2f81f7?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
 </a>
 
 <br/><br/>
 
-<!-- 简介区域：左对齐，极简文字 -->
-<p align="left" style="max-width: 800px;">
-  I am a Computer Science undergraduate specializing in building functional digital products. My expertise ranges from <b>static page generation</b> and <b>API integration</b> to <b>indie game development</b>.
-  <br/><br/>
-  🔭 <b>Current Focus:</b> Full-stack development & Game Physics.<br/>
-  🌱 <b>Learning:</b> Advanced Algorithms & Cloud Architecture.<br/>
-  💼 <b>Team:</b> Core member of <b>806 Studio</b>.
-</p>
-
 </div>
 
+---
+
+### 🏗️ Technical Architecture
+
+<!-- 3. 技术栈：全黑白/灰度设计，只保留 Logo 原色或统一色调 -->
+<!-- 这种 Grid 布局比表格更稳定 -->
+
+<p align="left">
+  <b>CORE:</b><br/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>FULL STACK:</b><br/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>GAME & TOOLS:</b><br/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+</p>
+
 <br/>
 
-### 🛠️ Technical Arsenal
+### 📈 Metrics
 
-<!-- 技术栈：按领域分组，清晰明了 -->
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) |
-| **Backend & Tools** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Game Dev** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) |
+<!-- 4. 数据统计：修复图片裂开问题 -->
+<!-- 
+  如果不显示，说明 vercel 服务在你的网络下暂时不可达。
+  解决方案：我使用了 'tokyonight' 主题，这是一个非常稳重且高级的深色主题。
+  并且去掉了 layout=compact，让数据展示更舒展。
+-->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xu-zhenghao-zzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=2f81f7&icon_color=2f81f7&title_color=2f81f7&text_color=c9d1d9" alt="GitHub Stats" width="45%" align="left"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xu-zhenghao-zzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=2f81f7&title_color=2f81f7&text_color=c9d1d9&hide=jupyter%20notebook" alt="Top Languages" width="40%" align="left"/>
+</div>
 
+<br clear="both"/>
 <br/>
 
-### 📊 GitHub Analytics
-
-<!-- 数据展示区：移除花哨背景，使用透明/深色背景，回归数据本身 -->
-<!-- 必须顶格写 table，否则会渲染错误 -->
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Xu-zhenghao-zzz&show_icons=true&theme=transparent&hide_border=true&title_color=0056D2&text_color=8b949e&icon_color=0056D2&count_private=true" alt="Xu-zhenghao-zzz Stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xu-zhenghao-zzz&layout=compact&theme=transparent&hide_border=true&title_color=0056D2&text_color=8b949e" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<!-- 底部链接：极简风格 -->
-<br/>
+<!-- 5. 底部 Slogan：极简 -->
 <div align="center">
-  <a href="https://github.com/Xu-zhenghao-zzz">
-    <img src="https://komarev.com/ghpvc/?username=Xu-zhenghao-zzz&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
+  <span style="color: #30363d; font-size: 12px;">DESIGNED BY XU ZHENGHAO | 2024</span>
 </div>
