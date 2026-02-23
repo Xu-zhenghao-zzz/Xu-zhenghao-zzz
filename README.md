@@ -49,21 +49,21 @@ CS undergraduate &ensp;·&ensp; Full-Stack Developer &ensp;·&ensp; 806 Studio
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=7c3aed&icon_color=38bdf8&text_color=cbd5e1&bg_color=020617&include_all_commits=true&count_private=true"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Xu-zhenghao-zzz&show_icons=true&theme=transparent&hide_border=true&title_color=7c3aed&icon_color=38bdf8&text_color=cbd5e1&bg_color=020617&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=7c3aed&text_color=cbd5e1&bg_color=020617"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xu-zhenghao-zzz&layout=compact&theme=transparent&hide_border=true&title_color=7c3aed&text_color=cbd5e1&bg_color=020617"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=7c3aed&fire=38bdf8&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0" />
+<img src="https://streak-stats.demolab.com?user=Xu-zhenghao-zzz&theme=transparent&hide_border=true&ring=7c3aed&fire=38bdf8&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=020617&color=7c3aed&line=38bdf8&point=e2e8f0&area=true&area_color=1e1b4b&hide_border=true" width="92%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xu-zhenghao-zzz&bg_color=020617&color=7c3aed&line=38bdf8&point=e2e8f0&area=true&area_color=1e1b4b&hide_border=true" width="92%"/>
 
 </div>
 
