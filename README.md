@@ -1,73 +1,69 @@
 <div align="center">
 
-<!-- 1. 顶部 Header：极简、高清 SVG 渲染 -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e6edf3&text=Xu%20Zhenghao&height=100&fontSize=60&fontAlign=50" alt="Xu Zhenghao" />
+<!-- 1. 顶部：模拟星空 HUD 抬头显示器 -->
+<!-- 使用了动态的星空 GIF 作为头图，叠加你的名字 -->
+<img src="https://i.imgur.com/P1F7eG3.gif" width="100%" style="border-radius: 10px; filter: brightness(0.8);" />
 
-<!-- 副标题：代码风格，强调技术属性 -->
-<pre>
-<span style="color: #7d8590">const</span> <span style="color: #2f81f7">CURRENT_ROLE</span> = <span style="color: #a5d6ff">"CS Undergraduate"</span>;
-<span style="color: #7d8590">const</span> <span style="color: #2f81f7">FOCUS</span> = [<span style="color: #a5d6ff">"Full-Stack"</span>, <span style="color: #a5d6ff">"Game Dev"</span>, <span style="color: #a5d6ff">"806 Studio"</span>];
-</pre>
-
-<br/>
-
-<!-- 2. 核心导航：扁平化商务蓝风格 -->
-<a href="http://www.bjchz.net.cn" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-BJCHZ.NET.CN-white?style=for-the-badge&logo=vercel&logoColor=black" height="30" />
-</a>
-&nbsp;
-<a href="mailto:你的邮箱@example.com">
-  <img src="https://img.shields.io/badge/CONTACT-EMAIL_ME-2f81f7?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/TEAM-806_STUDIO-1f2328?style=for-the-badge&logo=github&logoColor=white" height="30" />
-</a>
-
+<div style="margin-top: -150px; position: relative; z-index: 10;">
+  <h1 style="color: white; text-shadow: 0 0 20px #00f0ff; font-family: sans-serif;">XU ZHENGHAO</h1>
+  <p style="color: #00f0ff; background: rgba(0,0,0,0.5); display: inline-block; padding: 5px 15px; border: 1px solid #00f0ff; border-radius: 20px; backdrop-filter: blur(5px);">
+    🚀 CS UNDERGRADUATE | 🪐 FULL-STACK | 👾 GAME DEV
+  </p>
+</div>
 <br/><br/>
 
-<!-- 3. 个人简介 -->
-<p align="left" style="max-width: 800px; color: #7d8590; line-height: 1.6;">
-  I am a Computer Science undergraduate specializing in building functional digital products. My expertise ranges from <b>Full-Stack Development</b> (Web & API integration) to <b>Indie Game Creation</b>. 
-  <br/>
-  Currently acting as a core developer at <b>806 Studio</b>.
-</p>
-
-</div>
-
----
-
-### 🛠️ Technical Architecture
-
-<!-- 4. 技术栈：表格布局，整齐划一，黑白蓝配色 -->
-| **Domain** | **Stack** |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white) |
-| **Frontend** | ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![API](https://img.shields.io/badge/REST_API-0056D2?style=flat-square&logo=postman&logoColor=white) |
-| **Game & Dev** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-
-<br/>
-
-### 📊 Engineering Metrics
-
-<!-- 5. 数据统计：使用 Tokyonight 主题，深色模式下非常高级 -->
+<!-- 2. 模拟 "3D 切换" 的布局 -->
+<!-- 我们用表格强制做出 "左(小)-中(大)-右(小)" 的透视感 -->
 <table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Xu-zhenghao-zzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=2f81f7&icon_color=2f81f7&title_color=2f81f7&text_color=c9d1d9&count_private=true" alt="Xu-zhenghao-zzz Stats" width="100%" />
-    </td>
-    <td width="45%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xu-zhenghao-zzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=2f81f7&title_color=2f81f7&text_color=c9d1d9&hide=jupyter%20notebook" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
+    <tr>
+        <!-- 左侧卡片：个人数据 (模拟变暗、变小) -->
+        <td width="25%" align="center" style="opacity: 0.7; transform: scale(0.9);">
+            <h3 style="color: #8b949e;">COMMAND LINE</h3>
+            <img src="https://github-readme-stats.vercel.app/api?username=Xu-zhenghao-zzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true&count_private=true" width="100%" />
+        </td>
+        
+        <!-- 中间卡片：主推项目 (模拟高亮、C位、毛玻璃发光) -->
+        <!-- 这是核心视觉焦点 -->
+        <td width="50%" align="center" style="border: 1px solid #00f0ff; border-radius: 15px; box-shadow: 0 0 30px rgba(0, 240, 255, 0.2); background: #0d1117;">
+            <a href="http://www.bjchz.net.cn">
+                <br/>
+                <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50px" />
+                <h2 style="color: #00f0ff; margin-bottom: 5px;">PROJECT SPOTLIGHT</h2>
+                <h3 style="color: white;">BJCHZ.NET.CN</h3>
+                <img src="https://img.shields.io/badge/STATUS-ONLINE-success?style=for-the-badge&color=00f0ff" />
+                <p style="color: #8b949e; padding: 0 20px;">
+                    Full-Stack architecture.<br/>
+                    Next-gen web experience.
+                </p>
+                <br/>
+            </a>
+        </td>
+
+        <!-- 右侧卡片：技术栈 (模拟变暗、变小) -->
+        <td width="25%" align="center" style="opacity: 0.7; transform: scale(0.9);">
+             <h3 style="color: #8b949e;">SYSTEM CORE</h3>
+             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xu-zhenghao-zzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" width="100%" />
+        </td>
+    </tr>
 </table>
 
 <br/>
 
-<!-- 6. 贪吃蛇动画区 -->
-<!-- 这是一个响应式图片设置，会根据用户的深色/浅色模式自动切换蛇的颜色 -->
-<div align="center">
+<!-- 3. 底部控制台与动态贪吃蛇 -->
+<!-- 模拟飞船仪表盘的底部 -->
+<table width="100%">
+    <tr>
+        <td align="center">
+            <img src="https://img.shields.io/badge/UNITY-GAME_ENGINE-black?style=for-the-badge&logo=unity&logoColor=white&color=101010" height="30"/>
+            <img src="https://img.shields.io/badge/VUE-FRONTEND-black?style=for-the-badge&logo=vue.js&logoColor=4FC08D&color=101010" height="30"/>
+            <img src="https://img.shields.io/badge/NODE-BACKEND-black?style=for-the-badge&logo=node.js&logoColor=green&color=101010" height="30"/>
+            <img src="https://img.shields.io/badge/806-STUDIO-black?style=for-the-badge&logo=github&logoColor=purple&color=101010" height="30"/>
+        </td>
+    </tr>
+</table>
+
+<!-- 贪吃蛇区域：深色背景 -->
+<div align="center" style="background: #0d1117; border-radius: 10px; padding: 10px; margin-top: 20px; border: 1px solid #30363d;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xu-zhenghao-zzz/Xu-zhenghao-zzz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xu-zhenghao-zzz/Xu-zhenghao-zzz/output/github-contribution-grid-snake.svg">
@@ -75,8 +71,4 @@
   </picture>
 </div>
 
-<br/>
-
-<div align="center">
-  <span style="color: #30363d; font-size: 12px; font-family: monospace;">// DESIGNED BY XU ZHENGHAO | 2024</span>
 </div>
